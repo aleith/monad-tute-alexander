@@ -9,6 +9,6 @@ Code from 0:35:00 is here [https://play.haskell.org/saved/tkb0vjDh
 
 Code from 0:44:40 is here https://play.haskell.org/saved/OrUPeL5s
 
-Code from 1:00:00 is here https://play.haskell.org/saved/y1gDzg5f
+Code from 1:00:00 is here https://play.haskell.org/saved/y1gDzg5f also in /finished.hs
 
 Code for State monad https://play.haskell.org/saved/GXDTS0CX
