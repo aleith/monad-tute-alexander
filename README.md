@@ -7,4 +7,4 @@ Code from 0:27:35 is here https://play.haskell.org/saved/VF1hVCWo /intro.hs
 Code from 0:35:00 is here [https://play.haskell.org/saved/tkb0vjDh
 ](https://play.haskell.org/saved/tkb0vjDh) also in /part_1.hs
 
-
+Code from 0:44:40 is here https://play.haskell.org/saved/OrUPeL5s
