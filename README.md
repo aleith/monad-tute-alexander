@@ -8,3 +8,7 @@ Code from 0:35:00 is here [https://play.haskell.org/saved/tkb0vjDh
 ](https://play.haskell.org/saved/tkb0vjDh) also in /part_1.hs
 
 Code from 0:44:40 is here https://play.haskell.org/saved/OrUPeL5s
+
+Code from _______ is here https://play.haskell.org/saved/y1gDzg5f
+
+Code for State monad https://play.haskell.org/saved/GXDTS0CX
