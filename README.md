@@ -1,4 +1,4 @@
-# monad-tute-alexander
+# “_Monads are EASY!_” tutrial by Alexander 
 Code examples from the Monads are Easy tutorial here on YouTube:https://www.youtube.com/watch?v=ouUp9e6YDtA
 
 
